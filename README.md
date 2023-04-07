@@ -33,3 +33,5 @@ ve her seferinde birkaç düğüm kümesi üzerinde geriye dönük bir arama yap
 
 Sonuç olarak, Bron-Kerbosch algoritması, çoğu durumda n'in küçük olduğu grafiklerde kullanılması önerilir 
 ve en kötü durumda çalışma zamanı, grafın tamamının bir MBC olması durumunda hariç, n'in üçüncü dereceden bir fonksiyonudur.
+
+YÖNERGE --->>> KODU ÇALIŞTIRMAK İÇİN UYGUN JAVA DERLEYİCİSİDE DERLEMENİZ GEREKMEKTEDİR.(İNTELLJİJ İDEA , ECLİPSE , NETBEANS)
